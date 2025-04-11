@@ -1,1 +1,21 @@
+Technologies:
 
+- Python: Core programming language.
+
+- Google Colab: Cloud-based IDE for development, testing, and sharing.
+
+- SQLite: Lightweight, file-based database for long-term memory.
+
+- pandas, numpy: Data handling and processing.
+
+- scikit-learn: AI/ML algorithms for recommendation logic.
+
+Deployment Readiness:
+
+- Cloud-Based Development: Google Colab enables development from any device.
+
+Modular Agents: Easily deployed into APIs or production pipelines.
+
+- Database Integration: SQLite ensures persistence; upgradable to MySQL/PostgreSQL for large-scale systems.
+
+- Real-Time Capability: Agents update customer profiles and recommendations instantly based on input data.
